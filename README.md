@@ -1,3 +1,2 @@
 # Data-analysis
-This project is based on annual sales data from a clothing business.
-Things I did in this project: Data Cleaning & formatting, data visualization, and reporting.
+This project analyzes annual sales data of a clothing business using Microsoft Excel. The work focuses on data cleaning and formatting to prepare raw sales data for analysis, followed by data visualization using pivot tables and charts to understand sales trends, customer demographics, and product performance. The project concludes with basic reporting, summarizing key insights that can support business decision-making.
